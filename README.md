@@ -6,9 +6,9 @@ Security Chat is the Pro version of G3Chat,If you want the source code of G3Chat
 
 2. Download the Mac Explorer Tools: iExplorer 3.2.3.0 , download(free use for 30 Days) from: https://github.com/coodeer/g3ClientiOS .
 
-3. Connect with you iPhone,  Search Security Chat from iExplorer, see Pic1.jpg.
+3. Connect with you iPhone,  Search Security Chat from iExplorer, see Pic1.png.
 
-4. Drag(copy) the G3ChatPro.app from iExplorer, see Pic2.jpg.
+4. Drag(copy) the G3ChatPro.app from iExplorer, see Pic2.png.
 
 5. Open G3ChatPro.app Packages Content, you can see the G3ChatDevCode.zip , unzip it you will get  G3Chat Pro source code.
 
