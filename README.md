@@ -1,7 +1,7 @@
 G3Chat is a free APP, from https://itunes.apple.com/us/app/g3chat-zhen-dui3g-wang-luo/id490460990?ls=1&mt=8
 Security Chat is the Pro version of G3Chat,If you want the source code of G3Chat, you can get it as below:
 
-I offer free technical support for those giving 5-star review in appStore, then send the screenshot to my email address: hitianhan@yandex.com
+I offer free technical support for those giving 5-star review in appStore, then send the screenshot to my email address: hitianhao@yandex.com
 ===============================================================================================================
 
 1. Get the Security Chat App from AppStore(https://itunes.apple.com/us/app/security-chat/id829409851?ls=1&mt=8).
